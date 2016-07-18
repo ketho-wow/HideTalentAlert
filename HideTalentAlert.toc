@@ -1,0 +1,8 @@
+## Interface: 70000
+## Version: 1.0
+## Title: HideTalentAlert
+## Notes: Hides MicroButton Alerts
+## Author: Ketho @ EU-Boulderfist
+## SavedVariablesPerCharacter: HideTalentAlertDB
+
+HideTalentAlert.lua
