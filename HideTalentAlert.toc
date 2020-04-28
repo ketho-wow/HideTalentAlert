@@ -1,7 +1,9 @@
-## Interface: 80000
+## Interface: 80300
 ## Version: @project-version@
 ## Title: HideTalentAlert
-## Notes: Hides MicroButton Alerts
-## Author: Ketho @ EU-Boulderfist
+## Notes: Hides the Talent popup notifications
+## Author: Ketho
+## X-Curse-Project-ID: 101110
+## X-WoWI-ID: 23992
 
 HideTalentAlert.lua
