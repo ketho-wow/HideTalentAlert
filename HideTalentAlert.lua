@@ -1,5 +1,5 @@
 -- License: Public Domain
 
-function MainMenuMicroButton_AreAlertsEffectivelyEnabled()
+function MainMenuMicroButton_AreAlertsEnabled()
 	return false
 end
