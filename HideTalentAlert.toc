@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 90005
 ## Version: @project-version@
 ## Title: HideTalentAlert
 ## Notes: Hides the Talent popup notifications
