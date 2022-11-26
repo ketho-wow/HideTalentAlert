@@ -1,9 +1,10 @@
-## Interface: 90005
+## Interface: 100002
 ## Version: @project-version@
 ## Title: HideTalentAlert
 ## Notes: Hides the Talent popup notifications
 ## Author: Ketho
 ## X-Curse-Project-ID: 101110
 ## X-WoWI-ID: 23992
+## X-Wago-ID: xZKxdqKk
 
 HideTalentAlert.lua
