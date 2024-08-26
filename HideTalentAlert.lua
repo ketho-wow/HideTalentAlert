@@ -18,3 +18,6 @@ end
 -- Hook the alert and pulse functions securely to avoid taint
 hooksecurefunc("MainMenuMicroButton_ShowAlert", HideAlert)
 hooksecurefunc("MicroButtonPulse", HidePulse)
+
+-- hides TutorialPointerFrame
+SetCVar("showTutorials", 0)

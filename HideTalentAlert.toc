@@ -1,5 +1,5 @@
 ## Interface: 110002
-## Version: 2.0.0
+## Version: @project-version@
 ## Title: HideTalentAlert
 ## Notes: Hides the "You have unspent Talent points" pop-up notification
 ## Author: Ketho, Katur239, Knaledge
