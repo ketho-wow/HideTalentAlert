@@ -1,4 +1,5 @@
 -- License: Public Domain
+
 -- Function to hide talent alerts
 local function HideAlert(microButton)
     -- Only hide alerts for the PlayerSpellsMicroButton
@@ -19,5 +20,5 @@ end
 hooksecurefunc("MainMenuMicroButton_ShowAlert", HideAlert)
 hooksecurefunc("MicroButtonPulse", HidePulse)
 
--- hides TutorialPointerFrame
+-- Hides TutorialPointerFrame
 SetCVar("showTutorials", 0)

@@ -3,6 +3,7 @@
 ## Title: HideTalentAlert
 ## Notes: Hides the "You have unspent Talent points" pop-up notification
 ## Author: Ketho, Katur239, Knaledge
+## IconTexture: interface\icons\talentspec_druid_restoration
 ## X-Curse-Project-ID: 101110
 ## X-WoWI-ID: 23992
 ## X-Wago-ID: xZKxdqKk
